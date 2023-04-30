@@ -37,4 +37,4 @@ def task(path: str, threshold: float = 0.99999):
 
 
 if __name__ == '__main__':
-    task(path="../stickers", threshold=0.9999)
+    task(path="../stickers/蔡徐坤", threshold=0.9999)
